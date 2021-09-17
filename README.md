@@ -1,1 +1,1 @@
-<h3><i>This is alluring project for quatum leap JavaScript developers.<br> The recommended IDE is code.org. <br>Assests and additional things except code should not be annexed in code.org.<i></h3>
+<h3><i>This is alluring project for quatum leap JavaScript developers.<br> The recommended IDE is code.org. <br>Assests and additional things except code should not be annexed in code.org.<br>The coding needs to be commenced from line number thirty seven of code.js <i></h3>
